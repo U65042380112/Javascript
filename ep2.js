@@ -5,5 +5,5 @@ function fullname(fname, lname){
 
 fullname1 = (fname,lname) => fname+" "+lname
 
-console.log(fullname("pornthep","chanpheng"))
-console.log(fullname1("pornthep","chanpheng"))
+console.log(fullname("Ukrit","jumrunjamjarus"))
+console.log(fullname1("Ukrit","jumrunjamjarus"))

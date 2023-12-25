@@ -1,10 +1,10 @@
 // Object
 const customer = {
-    name : "Mr.Pornthep Chanpheng",
-    age : 50,
+    name : "Mr.Ukrit Jumrunjamjarus",
+    age : 19,
     address : "Uttaradit",
     getCustomer(){
-        console.log( this.name)
+        console.log(this.name)
     }
 }
 

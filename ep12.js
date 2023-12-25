@@ -1,6 +1,6 @@
 const data = [10,20,30,40,50]
 
-for (let i = 0; i < data.length;i++){
+for (let i = 1; i < data.length;i++){
     console.log(`index ${i} : ${data[i]}`)
 }
 
